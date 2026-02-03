@@ -1,0 +1,64 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontFamily": "ComicShannsMono Nerd Font, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 1.0,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "500",
+    "prettier.eslintIntegration": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 10,
+    "editor.cursorBlinking": "smooth",
+    "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "Cobalt2",
+    "eslint.format.enable": true,
+    "settingsSync.ignoredExtensions": [],
+    "workbench.sideBar.location": "right",
+    "terminal.external.osxExec": "Terminal.app",
+    "jest.runMode": "on-demand",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.replaceTagsWhenPull": true,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "cSpell.userWords": ["coldsurfers"],
+    "codestream.serverUrl": "https://codestream-api-v2-us1.service.newrelic.com",
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "docker-desktop"
+    ],
+    "diffEditor.renderSideBySide": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "cursor.composer.shouldAllowCustomModes": true,
+    "git.confirmSync": false,
+    "RadonIDE.deviceSettings.location": {
+        "latitude": 37.78825,
+        "longitude": -122.4324,
+        "isDisabled": true
+    },
+    "RadonIDE.deviceSettings.contentSize": "normal",
+    "RadonIDE.userInterface.panelLocation": "tab"
+}
